@@ -1,0 +1,13 @@
+@import 'flow.css';
+@import 'tailwind.css';
+
+::-webkit-scrollbar {
+  width: 0;
+}
+
+#app {
+  padding: 0px 0px;
+  overflow-x: hidden;
+  display: flex;
+  height: 100vh;
+}
